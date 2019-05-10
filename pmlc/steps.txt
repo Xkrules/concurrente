@@ -1,0 +1,7 @@
+spin -a file
+gcc pan.c
+./a.exe
+
+->
+spín -t file
+spin -i file
